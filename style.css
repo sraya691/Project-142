@@ -1,0 +1,11 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    border:5px solid rgb(236, 65, 199);
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(253, 151, 245);
+    margin-top: 70px;
+}
